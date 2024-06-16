@@ -1,6 +1,7 @@
 html {
     font-family: Arial;
     background-image: url(wallpaper.jpg);
+    background-attachment: fixed;
     margin: 0;
     padding: 0;
     text-shadow: 2px 2px 4px #420d1fab;
